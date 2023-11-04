@@ -1,0 +1,24 @@
+[{
+    "name": "T-Shirt",
+    "price": 145,
+    "color": "Yellow",
+    "rating": 3.8,
+    "category": "Clothing",
+    "createdAt": "2023-10-18T00:00:00.000Z"
+},
+{
+    "name": "CCTV Camera",
+    "price": 45,
+    "color": "White",
+    "rating": 3.8,
+    "category": "Accessories",
+    "createdAt": "2023-10-19T00:00:00.000Z"
+},
+{
+"name":"Tourist Bag",
+"price":150,
+"color":"green",
+"rating":3.8,
+"category":"Bags",
+"createdAt": "2023-10-20T00:00:00.000Z"
+}]

@@ -1,0 +1,32 @@
+[
+   {
+      "title": "Neutron Analysis",
+      "author": "O.Henry",
+      "year": 2022,
+      "category": "Science Fiction"
+   },
+   {
+      "title": "Chemistry in Everyday Life",
+      "author": "Edison",
+      "year": 2019,
+      "category": "Science Fiction"
+   },
+   {
+      "title": "Snake in the Mars",
+      "author": "Jack Harry",
+      "year": 2021,
+      "category": "Fantasy"
+   },
+   {
+      "title": "Crow on the Palace",
+      "author": "Muthayyah",
+      "year": 2017,
+      "category": "Fantasy"
+   },
+   {
+      "title": "The Best Thriller i have seen in my life",
+      "author": "Peter",
+      "year": 2023,
+      "category": "Mystery"
+   }
+]
